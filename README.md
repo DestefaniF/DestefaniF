@@ -32,7 +32,6 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeDestefani&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-
 </p>
 
 
