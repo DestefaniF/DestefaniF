@@ -9,8 +9,7 @@
 
 - Busco conhecimento e experiência na área da programção!👀
 
-- Amo programação e desenvolver códigos!!❤😍
-
+- Sempre disposto a aprender!!! 
 
 
 
@@ -31,7 +30,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeDestefani&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="390em" src="https://github-readme-stats.vercel.app/api?username=FelipeDestefani&show_icons=true&theme=vision-friendly-dark" alt="FelipeDestefani stats"/>
 </p>
 
 
