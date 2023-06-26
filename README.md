@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DestfeaniF/547e33f00a42955da1dea039e910bd50/raw/36e96f064ca46496733cafee5eb0d102e5cec0b6/githubcard.svg"/>
+
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Felipe Destefani</h1>
 
