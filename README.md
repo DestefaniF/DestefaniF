@@ -1,5 +1,5 @@
 
- <img align="right" src=" <img align="center" src="https://avatars.githubusercontent.com/u/121129420?v=4" alt="Felipe Destefani"/>" />
+ <img align="right" src="https://avatars.githubusercontent.com/u/121129420?v=4" alt="Felipe Destefani"/>" 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Felipe Destefani</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DestefaniF&color=green" alt="Profile views" /> </p>
